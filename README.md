@@ -1,31 +1,24 @@
 # autowod
 Programatically generate personalized WODs
 
-========================
-==  Modality ==
-========================
-
-M1. Gymnastics / AthCon
-----------------------------------------
+Modality
+-------------------
+#### M1. Gymnastics / AthCon
 Air Squat, Pull-up, Push-up
 Dip. Handstand Push-up, Back Extension 
 Sit-up, Jump Lunge, GHD sit up, Nordic HC
 Deck & pistol squats ...
 
-M2. Metabolic Conditioning / MetCon
-----------------------------------------
+#### M2. Metabolic Conditioning / MetCon
 Run, Bike, Row, Jump Rope ...
 
-M3. Weightlifting
-----------------------------------------
+#### M3. Weightlifting
 Deadlift, Cleans, Press, Snatch
 Clean and Jerk, Medicine-Ball Drills 
 Kettlebell Swing, turkish get ups...
 
-========================
-==  Movement Category ==
-========================
-
+Movement Category
+------------------------
 BHD. Bilateral Hip Dominant (e.g. RDL, trap-bar deadlift, barbell deadlift)
 BQD. Bilateral Quad Dominant (e.g. goblet squat, front squat, back squat)MC
 UHD. Unilateral Hip Dominant (e.g. reverse lunge, single-leg RDL)
@@ -37,8 +30,10 @@ UPL. Unilateral Upper-Body Pull (e.g. single-arm row, single-arm lat pull down)M
 COR. Core (e.g. plank, ab wheel rollout, farmer’s walk)
 
 
+Example: 
+
 W - Weight Lifting
-=============================
+--------------------
 Back Squat
 8:  95
 7: 115
@@ -58,8 +53,8 @@ Bench Press
 1: 185+
 
 
-MG - MetCon & Gymnastics
-=============================
+MG - MetCon & AthCon
+--------------------------
 TABATA
 
 Air squat
@@ -74,5 +69,5 @@ Double unders
 
 
 WMG 
-=============================
+--------------------
 TBD
