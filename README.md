@@ -22,8 +22,8 @@ Movement Category
 Format
 ------------------------
 - **BroScience**: Lift heavy, learn skills, rest long 
-- **Task priority**: Scored for time - Benchmark workouts, 12 days of Christmas etc.
-- **Time priority**: Scored for reps - AMRAP of triplet moves in fixed time, Scored tabata or other work rest ratio etc.
+- **Task priority**: Two element days - Scored for time - Benchmark workouts, 12 days of Christmas etc.
+- **Time priority**: Three element days - Scored for reps - AMRAP of triplet moves in fixed time, Scored tabata or other work rest ratio etc.
 - **Form priority**: Not scored - EMOM, alternating sets with target reps etc. 
 
 
