@@ -10,13 +10,18 @@ Modality
 Movement Category
 ------------------------
 - **BHD**. Bilateral Hip Dominant (e.g. RDL, trap-bar deadlift, barbell deadlift)
-- **BQD**. Bilateral Quad Dominant (e.g. goblet squat, front squat, back squat)MC
+- **BQD**. Bilateral Quad Dominant (e.g. goblet squat, front squat, back squat)
 - **UHD**. Unilateral Hip Dominant (e.g. reverse lunge, single-leg RDL)
-- **UQD**. Unilateral Quad Dominant (e.g. split squat, forward lunge)MC
+- **UQD**. Unilateral Quad Dominant (e.g. split squat, forward lunge)
 - **BPS**. Bilateral Upper-Body Push (e.g. push-up, bench press)
-- **BPL**. Bilateral Upper-Body Pull (e.g. chin-up, inverted row)MC
+- **BPL**. Bilateral Upper-Body Pull (e.g. chin-up, inverted row)
 - **UPS**. Unilateral Upper-Body Push (e.g. single-arm landmine press, single-arm overhead press)
-- **UPL**. Unilateral Upper-Body Pull (e.g. single-arm row, single-arm lat pull down)MC
+- **UPL**. Unilateral Upper-Body Pull (e.g. single-arm row, single-arm lat pull down)
 - **COR**. Core (e.g. plank, ab wheel rollout, farmer’s walk)
 
+Format
+------------------------
+- **HIIT**. Includes 20/10 Tabata and other ratios
+- **AMRAP**. As many rounds and reps as possible in fixed time
+- **For Time**. Fixed reps and sets for time
 
