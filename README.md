@@ -9,14 +9,14 @@ Modality
 
 Movement Category
 ------------------------
-- BHD. Bilateral Hip Dominant (e.g. RDL, trap-bar deadlift, barbell deadlift)
-- BQD. Bilateral Quad Dominant (e.g. goblet squat, front squat, back squat)MC
-- UHD. Unilateral Hip Dominant (e.g. reverse lunge, single-leg RDL)
-- UQD. Unilateral Quad Dominant (e.g. split squat, forward lunge)MC
-- BPS. Bilateral Upper-Body Push (e.g. push-up, bench press)
-- BPL. Bilateral Upper-Body Pull (e.g. chin-up, inverted row)MC
-- UPS. Unilateral Upper-Body Push (e.g. single-arm landmine press, single-arm overhead press)
-- UPL. Unilateral Upper-Body Pull (e.g. single-arm row, single-arm lat pull down)MC
-- COR. Core (e.g. plank, ab wheel rollout, farmer’s walk)
+- **BHD**. Bilateral Hip Dominant (e.g. RDL, trap-bar deadlift, barbell deadlift)
+- **BQD**. Bilateral Quad Dominant (e.g. goblet squat, front squat, back squat)MC
+- **UHD**. Unilateral Hip Dominant (e.g. reverse lunge, single-leg RDL)
+- **UQD**. Unilateral Quad Dominant (e.g. split squat, forward lunge)MC
+- **BPS**. Bilateral Upper-Body Push (e.g. push-up, bench press)
+- **BPL**. Bilateral Upper-Body Pull (e.g. chin-up, inverted row)MC
+- **UPS**. Unilateral Upper-Body Push (e.g. single-arm landmine press, single-arm overhead press)
+- **UPL**. Unilateral Upper-Body Pull (e.g. single-arm row, single-arm lat pull down)MC
+- **COR**. Core (e.g. plank, ab wheel rollout, farmer’s walk)
 
 
