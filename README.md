@@ -21,7 +21,7 @@ Movement Category
 
 Format
 ------------------------
-- **HIIT**. Includes 20/10 Tabata and other ratios
+- **HIIT**. Includes EMOMs, Tabata (20/10) and other work to rest ratios
 - **AMRAP**. As many rounds and reps as possible in fixed time
 - **For Time**. Fixed reps and sets for time
 
