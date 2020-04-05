@@ -1,4 +1,4 @@
-# autowod
+# AutoWOD
 Programatically generate personalized WODs. The goal is to semi-automatically generate WODs the follow the CrossFit level 1 template by randomly picking from a library of exercises. Then score the actual WOD performed along two dimensions: Modality & Movement Category. Use scores from the last `n` days to constrain future WOD generation with the objective of maximizing coverage of the 12-D space of modality and movement category.
 
 Modality
