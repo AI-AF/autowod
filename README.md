@@ -21,7 +21,9 @@ Movement Category
 
 Format
 ------------------------
-- **HIIT**. Includes EMOMs, Tabata (20/10) and other work to rest ratios
-- **AMRAP**. As many rounds and reps as possible in fixed time
-- **For Time**. Fixed reps and sets for time
+- **BroScience**: Lift heavy, learn skills, rest long 
+- **Task priority**: Scored for time - Benchmark workouts, 12 days of Christmas etc.
+- **Time priority**: Scored for reps - AMRAP of triplet moves in fixed time, Scored tabata or other work rest ratio etc.
+- **Form priority**: Not scored - EMOM, alternating sets with target reps etc. 
+
 
