@@ -3,9 +3,9 @@ Programatically generate personalized WODs. The goal is to semi-automatically ge
 
 Modality
 -------------------
-- G. Gymnastics / AthCon: Air Squat, Pull-up, Push-up, Dip. Handstand Push-up, Back Extension, Sit-up, Jump Lunge, GHD sit up, Nordic HC, Deck & pistol squats etc.
-- M. Metabolic Conditioning / MetCon: Run, Bike, Row, Jump Rope etc.
-- W. Weightlifting: e.g. Deadlift, Cleans, Press, Snatch Clean and Jerk, Medicine-Ball Drills, Kettlebell Swing, turkish get ups etc.
+- **G**. Gymnastics / AthCon: Air Squat, Pull-up, Push-up, Dip. Handstand Push-up, Back Extension, Sit-up, Jump Lunge, GHD sit up, Nordic HC, Deck & pistol squats etc.
+- **M**. Metabolic Conditioning / MetCon: Run, Bike, Row, Jump Rope etc.
+- **W**. Weightlifting: e.g. Deadlift, Cleans, Press, Snatch Clean and Jerk, Medicine-Ball Drills, Kettlebell Swing, turkish get ups etc.
 
 Movement Category
 ------------------------
