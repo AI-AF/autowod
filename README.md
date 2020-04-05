@@ -1,6 +1,8 @@
 # AutoWOD
 Programatically generate personalized WODs. The goal is to semi-automatically generate WODs the follow the CrossFit level 1 template by randomly picking from a library of exercises. Then score the actual WOD performed along two dimensions: Modality & Movement Category. Use scores from the last `n` days to constrain future WOD generation with the objective of maximizing coverage of the 12-D space of modality and movement category.
 
+Project ideation [spreadsheet](https://docs.google.com/spreadsheets/d/1O-R1lTgoooM7kVBYVGUV2TbT2jo931ibFVf0mM9Lsj8/edit?usp=sharing)
+
 Modality
 -------------------
 - **G**. Gymnastics / AthCon: Air Squat, Pull-up, Push-up, Dip. Handstand Push-up, Back Extension, Sit-up, Jump Lunge, GHD sit up, Nordic HC, Deck & pistol squats etc.
