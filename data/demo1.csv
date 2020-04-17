@@ -1,0 +1,10 @@
+day,ex,wt,rep,push,pull,chest,back,shoulder,bi,tri,quad,ham,hip,core,bilateral,unilateral
+0,push up,0,200,1,,1,,,,1,,,,,1,
+0,pull up,0,100,,1,,1,,,,,,,,1,
+0,air squat,0,300,,,,,,,,1,1,1,,1,
+1,bicep curls,25,32,,,,,,1,,,,,,1,
+1,hspu,0,20,1,,,,1,,,,,,,1,
+1,hollow rocks,0,10,,,,,,,,,,,1,,
+2,bench press,135,40,1,,1,,,,1,,,,,1,
+2,dumbbell rows,50,40,,1,,1,,,,,,,,,1
+2,back squat,225,25,,,,,,,,1,1,1,,1,
