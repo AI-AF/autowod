@@ -1,4 +1,4 @@
-# AutoWOD
+# [AutoWOD](https://nbviewer.jupyter.org/github/AI-AF/autowod/blob/master/notebooks/hnlog.ipynb)
 The goal is to be able develop a mathematical representation of WODs and use this to measure similarity between WODs. This can help:
 - semi-autonomously generate WODs 
 - evaluate periodization of a given program 
